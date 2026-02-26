@@ -1,5 +1,7 @@
 # orphans_human_gut
-Tables and sequence data of human gut species specific orphan genes identified by Vakirlis and Kupczok.
+Tables with data from human gut species specific orphan genes identified by Vakirlis and Kupczok.
+
+CDS and protein sequences can be downloaded from : https://drive.google.com/file/d/17JvYc_afQUM2OzpZs8OvFWDQzxcTWtGm/view?usp=drive_link 
 
 If you use these data, please cite:
 
